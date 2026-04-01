@@ -3,23 +3,21 @@
   Hi, I'm Chinmay Singhal
 </h1>
 
-<h3 align="left">💻 Full-Stack Developer in Progress | 🚀 Building Real-World Projects</h3>
+<h3 align="left">💻 Full-Stack Developer | 🚀 Building Real-World Projects</h3>
 
 <p align="left">
-  <a href="https://komarev.com/ghpvc/?username=Chinmmaayyy&label=Profile%20views&color=0e75b6&style=flat">
-    <img src="https://komarev.com/ghpvc/?username=Chinmmaayyy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Chinmmaayyy&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 💫 About Me
-- 💻 Building real-world applications to become a strong full-stack developer  
+- 💻 Building real-world applications to strengthen full-stack skills  
 - 🤝 Open to collaborating on impactful software projects  
 - 🛠️ Focused on backend development & system design  
-- 🌱 Currently learning **Java, DSA, and scalable architectures**  
+- 🌱 Learning **Java, DSA, and scalable architectures**  
 - 💬 Ask me about coding, projects, or starting from scratch  
-- ⚡ Strong believer in **consistency over motivation**
+- ⚡ Consistency > Motivation  
 
 ---
 
@@ -54,7 +52,7 @@
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-### ⚛️ Frameworks & Libraries
+### ⚛️ Frameworks
 <p>
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -70,7 +68,7 @@
 <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### ☁️ Tools & Deployment
+### ☁️ Tools
 <p>
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"/>
@@ -82,7 +80,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Chinmmaayyy&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  
   <img src="https://streak-stats.demolab.com?user=Chinmmaayyy&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
@@ -90,11 +87,19 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Chinmmaayyy&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
+
+## 📈 Contribution Graph
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chinmmaayyy&theme=tokyo-night&hide_border=true)
+
+---
+
 ## 🚀 Current Focus
 - 🔥 Mastering **DSA + Java for placements**
 - ⚙️ Building **scalable backend systems**
 - 🧠 Learning **system design & architecture**
-- 🏗️ Creating real-world impactful projects
+- 🏗️ Creating impactful real-world projects
 
 ---
 
